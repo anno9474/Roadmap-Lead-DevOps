@@ -38,9 +38,9 @@ You can find detailed learning plans and project notes in the [skills/](./skills
 | Skill            | Status     | Notes                                  |
 |------------------|------------|----------------------------------------|
 | Terraform (Tofu) | 🔄 Learning | Using with AzureRM, modular structure |
-| Kubernetes (AKS) | ⏳ Next     | Focus on Helm, RBAC, Ingress          |
-| CI/CD            | 🔄 Learning | GitHub Actions + Azure Pipelines      |
-| Monitoring       | ⏳ Next     | Prometheus stack + alerting setup     |
+| Kubernetes (AKS) | ⚪ Not started     | Focus on Helm, RBAC, Ingress          |
+| CI/CD            | ⚪ Not started | GitHub Actions + Azure Pipelines      |
+| Monitoring       | ⚪ Not started | Prometheus stack + alerting setup     |
 | GitOps           | ⚪ Not started | ArgoCD vs. Flux evaluation         |
 
 ---
