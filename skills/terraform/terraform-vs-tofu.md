@@ -8,6 +8,28 @@ It allows engineers to define, manage, and provision the full lifecycle of infra
 OpenTofu is a fork of Terraform. It is open-source and community-driven.  
 It shares many similarities with Terraform, with some key differences such as **state encryption** and **early variable evaluation**.
 
+---
+
+## 🔑 Key Features (Shared by Terraform & OpenTofu)
+
+- **Declarative Language**  
+  Define the desired end state of your infrastructure, and the tool figures out how to reach it.
+
+- **Provider Agnostic**  
+  Support for a wide range of providers like AWS, Azure, Google Cloud, Kubernetes, Helm, and more.
+
+- **Modularity**  
+  Reusable modules help break down infrastructure into manageable, maintainable components.
+
+- **Stateful Management**  
+  Infrastructure state is tracked using a state file, enabling Terraform/OpenTofu to detect drift and perform updates efficiently.
+
+- **Versioning**  
+  Infrastructure code can be versioned and bundled into modules for consistent reuse across environments.
+
+- **CI/CD Integration**  
+  Easily integrates into most CI/CD pipelines (e.g., GitHub Actions, Azure DevOps, GitLab CI).
+
 
 ---
 
