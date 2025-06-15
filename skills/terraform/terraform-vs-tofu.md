@@ -55,3 +55,5 @@ It shares many similarities with Terraform, with some key differences such as **
 
 ## 🧠 Notes
 OpenTofu > Terraform as long as you are not already in the HashiCorp ecosystem
+
+[Terraform Best Practices](https://www.terraform-best-practices.com/)
