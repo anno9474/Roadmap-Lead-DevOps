@@ -3,7 +3,7 @@
 ## 🔰 Phase 0 – Environment Setup
 - Install [Tofu](https://opentofu.org)
 - Install `tfenv` for version management
-- Setup a separate Git repo for Terraform projects
+- Setup folder for Terraform projects
 - Pick a cloud provider: **Azure**
 
 ---
