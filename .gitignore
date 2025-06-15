@@ -1,0 +1,15 @@
+# Local .terraform directories
+.terraform/
+# Local .terraform.lock.hcl files
+.terraform.lock.hcl
+# Local terraform.tfstate files
+terraform.tfstate
+# Local terraform.tfstate.backup files
+terraform.tfstate.backup
+# Local secrets.auto.tfvars files
+secrets.auto.tfvars
+
+
+
+
+
